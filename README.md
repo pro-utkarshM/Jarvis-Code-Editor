@@ -1,2 +1,2 @@
 # Jarvis-Code-Editor
-Revolutionize your coding workflow with our Voice-Activated AI Code Editor, making programming more efficient and accessible through the power of voice.
+Unlock the potential of collaborative coding with our innovative Voice-Activated AI Code Editor, where AI acts as a helpful friend, assisting you in writing code blocks, generating project roadmaps, and suggesting improvements. Our focus is on refining the AI's ability to provide even more accurate code suggestions and project management assistance, ensuring a seamless coding experience.
