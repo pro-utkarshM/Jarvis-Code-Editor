@@ -22,4 +22,7 @@ Certainly, here are the key features and areas of improvement for your project i
 7. **Documentation and Tutorials:** Develop comprehensive documentation and tutorials to help users maximize the benefits of the AI code editor.
 8. **Accessibility:** Ensure that the voice-activated features are accessible and user-friendly for individuals with diverse needs.
 
-Continuously iterating and improving these aspects will result in a more powerful and user-friendly Voice-Activated AI Code Editor.
+---
+- [x] [For Windows](https://github.com/pro-utkarshM/Jarvis-Code-Editor/tree/forWindows) <br>
+- [ ] [For Linux]() <br>
+- [ ] [For Mac]() <br>
